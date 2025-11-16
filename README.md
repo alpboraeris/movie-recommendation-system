@@ -19,8 +19,7 @@ The System:
 
 ## 💻 Project Breakdown
 
-### 1. Data Loading
-[Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
+### 1. Data Loading 
 Two CSVs are used:
   - tmdb_5000_movies
   - tmdb_5000_credits
@@ -50,6 +49,8 @@ These files are loaded by the Streamlit app at runtime.
 
 ### 6. Streamlit application
 The app takes a movie name, retrieves the closest matches based on similarity scores and fetches poster images from TMDB using the **API**.
+
+## [💾Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) 
 
 ## 🛠 How to Run the Project
 ### 1. Clone the Repository
