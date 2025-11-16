@@ -20,6 +20,7 @@ The System:
 ## 💻 How it works
 
 ### 1. Data Loading
+[Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
 Two CSVs are used:
   - tmdb_5000_movies
   - tmdb_5000_credits
