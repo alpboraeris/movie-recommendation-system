@@ -6,3 +6,4 @@ __pycache__/
 .vscode/
 Thumbs.db
 artifacts/
+.streamlit/secrets.toml
