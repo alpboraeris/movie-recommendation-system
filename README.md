@@ -3,7 +3,7 @@
 A content-based movie recommendation project built with Python. 
 It suggests movies similar to a selected title using **cosine similarity** and a Streamlit app displays both the recommendations and their posters fetched from the TMDB **API**.
 
-## 📘 Overview
+## Overview
 Movies share similarities based on their genres, cast, crew, keywords, and descriptions.
 This project analyzes these features, converts them into **vectors**, and **computes similarity scores** to recommend movies that are closest to a chosen title.
 
