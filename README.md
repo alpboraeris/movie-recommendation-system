@@ -54,7 +54,7 @@ The app takes a movie name, retrieves the closest matches based on similarity sc
 ## 🛠 How to Run the Project
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/alpboraeris/movie-recommender-system.git
+git clone https://github.com/alpboraeris/movie-recommendation-system.git
 cd movie-recommender-system
 ```
 ### 2. Install Dependencies
