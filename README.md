@@ -17,7 +17,7 @@ The System:
 
 <img width="879" height="653" alt="image" src="https://github.com/user-attachments/assets/52f71399-7802-4a85-8dfd-9a882ac4cd55" />
 
-## 💻 How it works
+## 💻 Project Breakdown
 
 ### 1. Data Loading
 [Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
