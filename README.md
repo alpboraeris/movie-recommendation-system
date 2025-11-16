@@ -8,12 +8,12 @@ Movies share similarities based on their genres, cast, crew, keywords, and descr
 This project analyzes these features, converts them into **vectors**, and **computes similarity scores** to recommend movies that are closest to a chosen title.
 
 The System:
-  - Processes movie metadata
-  - Converts movie features into vectors
-  - Measures how similar movies are with cosine similarity
-  - Picks the most relevant matches for the selected title
-  - Fetches posters using the TMDB API
-  - Presents the recommendations through an user friendly Streamlit app
+  - Processes movie **metadata**
+  - Converts movie features into **vectors**
+  - Measures how similar movies are with **cosine similarity**
+  - Picks the most **relevant** matches for the selected title
+  - Fetches posters using the **TMDB API**
+  - Presents the recommendations through an user **friendly Streamlit app**
 
 <img width="879" height="653" alt="image" src="https://github.com/user-attachments/assets/52f71399-7802-4a85-8dfd-9a882ac4cd55" />
 
